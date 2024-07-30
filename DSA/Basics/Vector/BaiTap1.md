@@ -19,9 +19,9 @@ Cho một mảng A gồm n phần tử số nguyên. Bạn cần xử lý q truy
 - 1 ≤ x ≤ 10^9.  
 - 1 ≤ k ≤ |A| (với |A| là độ dài của mảng A) lúc truy vấn này xuất hiện.  
 
-> Ví dụ
+<h1>Ví dụ<h1>
 
-Input
+**Input**
 
 5 4  
 1 2 3 4 5  
@@ -30,7 +30,7 @@ Input
 2  
 3 2  
 
-Output:
+**Output**
 
 6  
 2  
