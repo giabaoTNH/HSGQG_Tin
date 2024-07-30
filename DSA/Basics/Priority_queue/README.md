@@ -2,7 +2,7 @@
 Priority queue là một hàng đợi có độ ưu tiên (tức là các phần tử lớn nhất hoặc nhỏ nhất ở đầu hàng đợi)
 Cấu trúc này nằm trong header queue
 
-> #include <queue>
+> #include \<queue>
 
 Hay ta có thể dùng header bits/stdc++.h (header này có chức năng rất đặc biệt)
 
