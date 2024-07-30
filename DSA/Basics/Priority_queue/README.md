@@ -13,9 +13,9 @@ Khai báo:
 > priority_queue <{kiểu dữ liệu}, {class container}, {class compare}> {tên priority_queue};
 
 Trong đó:
-- Container là một đối tượng cho phép lưu trữ các đối tượng khác. Ví dụ như vector, stack, queue, deque, … đều là các class container. Mặc định, vector là container của priority_queue.
+- Container là một đối tượng cho phép lưu trữ các đối tượng khác. Ví dụ như vector, stack, queue, deque, … đều là các class container. Mặc định, **_vector là container của priority_queue_**.
 
-- Compare thường sẽ là một phép toán trong thư viện functional. Một số phép toán trong thư viện này là less, greater, less_equal, … Phép toán mặc định trong priority_queue là less. 
+- Compare thường sẽ là một phép toán trong thư viện functional. Một số phép toán trong thư viện này là less, greater, less_equal, … **_Phép toán mặc định trong priority_queue là less_**. 
 
 * Lưu ý: Đối với các kiểu dữ liệu mặc định của C++, các phép toán này đã được xây dựng sẵn. Tuy nhiên, với các class hay struct mà người dùng tạo, ta sẽ phải tự định nghĩa các phép toán này. Mình sẽ giới thiệu cách định nghĩa ở phần sau.
 
