@@ -32,8 +32,8 @@ Một số thao tác cơ bản của priority queue:
 
 * Lưu ý: khi mình dùng pop(), hay là top() thì mình cần kiểm tra xem hàng đợi có rỗng hay không trước:
 
-> if (q.empty() == false) q.pop();
-**Hoặc**
+> if (q.empty() == false) q.pop();  
+**Hoặc**  
 > if (q.size()) q.pop();
 
 Nếu như có nhiều điều kiện cùng lúc thì nên đặt điều kiện kiểm tra hàng đợi có rỗng hay không ở đầu:
