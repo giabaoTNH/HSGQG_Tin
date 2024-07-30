@@ -1,5 +1,5 @@
 # HSGQG_Tin
-Hành trình ôn tập VOI của mình từ năm lớp 10
+Hành trình chinh phục VOI của mình từ năm lớp 10
 
 # Tính năng
 Một số tính năng của res:
