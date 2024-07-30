@@ -23,14 +23,14 @@ Cho một mảng A gồm n phần tử số nguyên. Bạn cần xử lý q truy
 
 Input
 
-5 4
-1 2 3 4 5
-1 6
-3 6
-2
-3 2
+5 4  
+1 2 3 4 5  
+1 6  
+3 6  
+2  
+3 2  
 
 Output:
 
-6
-2
+6  
+2  
