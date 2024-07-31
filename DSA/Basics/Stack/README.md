@@ -32,12 +32,3 @@ Có thể tưởng tượng stack là một chiếc hộp, khi ta bỏ sách và
 - empty(): Trả về true hoặc false, kiểm tra xem stack có rỗng hay không
 
 # Ứng dụng của stack
-
-
-
- 
-|       A       |      B        | C     |
-| :------------:|:-------------:|:-----:|
-|    3          |        2      |  1    |
-|     2         |        4      |   1   |
-|     a         | b             |    d  |
