@@ -1,3 +1,5 @@
 #30/07/2024 Hoc ve priority queue
 #31/07/2024 Hoc ve stack
 #31/07/2024 Hoc ve set
+#01/08/2024 Hoc ve phi ham Euler, Miller rabin
+#02/08/2024 Hoc ve Segment tree (Interval Tree)
