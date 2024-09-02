@@ -15,15 +15,7 @@ int main() {
 			long long temp; cin >> temp;
 			prefix_sum[i] = prefix_sum[i-1]+temp;
 		}
-		long long st1 = prefix_sum[(1+n)/2];
-		long long st2 = prefix_sum[n/2];
-		long long st3 = prefix_sum[n] - st1;
-		long long st4 = prefix_sum[n] - st2;
-		long long ans = st1;
-		ans = max(ans,st2);
-		ans = max(ans,st3);
-		ans = max(ans,st4);
-		cout << ans << endl;
+
 	}
 
 	return 0;
