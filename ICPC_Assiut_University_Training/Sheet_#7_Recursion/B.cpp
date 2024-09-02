@@ -1,14 +1,19 @@
 #include <bits/stdc++.h>
 using namespace std;
+int n;
+
+void print(int s) {
+	if (s > n) return;
+	cout << s << endl;
+	print(s+1);
+}
 
 int main() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(0);
 	
-	int n; cin >> n;
-	for (int i = 1; i<=n; i++) {
-		cout << i << endl;
-	}
+	cin >> n;
+	print(1);
 
 	return 0;
 }
