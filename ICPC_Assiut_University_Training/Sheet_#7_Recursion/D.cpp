@@ -1,16 +1,14 @@
+// Problem: https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/D
 #include <bits/stdc++.h>
 using namespace std;
 
-vector<int> a;
+string print_digit(int n) {
+	if (n == 0) return "";
 
-void print_digit(int n) {
-	if (n == 0) {
-		for (int i = a.size() - 1; i>0; i--) cout << a[i] << ' ';
-		cout << a[0];
-		return;
-	}
-	a.push_back(n%10);
-	print_digit(n/10);
+	string s = " ";
+	s = (char)(n%10 + 48) + s;
+
+	return print_digit(n/10) + s;
 }
 
 int main() {
@@ -19,11 +17,9 @@ int main() {
 	
 	int t; cin >> t;
 	while (t--) {
-		a.clear();
 		int n; cin >> n;
-		if (n == 0) cout << 0;
-		else print_digit(n);
-		if (t > 0) cout << endl;
+		if (n == 0) cout << "0" << endl;
+		else cout << print_digit(n) << endl;
 	}
 
 	return 0;

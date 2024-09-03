@@ -1,11 +1,11 @@
+// Problem: https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/E
 #include <bits/stdc++.h>
 using namespace std;
 
-string s;
-void convert(int n) {
-	if (n == 0) return;
-	s = (char)(n%2 + 48) + s;
-	convert(n/2);
+string convert(int n) {
+	if (n == 0) return "";
+	char s = (char)(n%2 + 48);
+	return convert(n/2) + s;
 }
 
 int main() {
@@ -15,9 +15,7 @@ int main() {
 	int t; cin >> t;
 	while(t--) {
 		int n; cin >> n;
-		s = "";
-		convert(n);
-		cout << s << endl;
+		cout << convert(n) << '\n';
 	}
 
 	return 0;
