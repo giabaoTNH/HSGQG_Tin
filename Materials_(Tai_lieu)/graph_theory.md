@@ -19,5 +19,12 @@
 **Nhược điểm**
 - Video sử dụng tiếng anh
 
-<h2>Danh sách phát lý thuyết đồ thị của 28Tech: </h2>
+<h2>Danh sách phát lý thuyết đồ thị của 28Tech: https://youtube.com/playlist?list=PLux-_phi0Rz3Kx5SPqIRyGR1gDVb5DY1x&si=7aTFQdkZlJvfmJL6</h2>
+
+**Ưu điểm:**
+- Video sử dụng tiếng Việt
+- Đầy đủ kiến thức, kèm bài tập
+
+**Nhược điểm:**
+- Video dài, dễ nản
 
