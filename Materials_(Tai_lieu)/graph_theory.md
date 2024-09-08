@@ -28,11 +28,16 @@
 **Nhược điểm:**
 - Video dài, dễ nản
 
-<h2>Thuật toán dijkstra trong 8p: [How Dijkstra's Algorithm Works]https://www.youtube.com/watch?v=EFg3u_E6eHU</h2>
+<h2>Thuật toán dijkstra trong 8p: [How Dijkstra's Algorithm Works]</h2>
+https://www.youtube.com/watch?v=EFg3u_E6eHU
 
-<h2>Shortest Path Algorithms Explained (Dijkstra's & Bellman-Ford): https://www.youtube.com/watch?v=j0OUwduDOS0</h2>
+<h2>Shortest Path Algorithms Explained (Dijkstra's & Bellman-Ford): </h2>
+https://www.youtube.com/watch?v=j0OUwduDOS0
 
 <h2>Bộ 2 Video Về Đồ Thị Của Shayan</h2>
-- https://www.youtube.com/watch?v=l1JQhPBwrsY
-- https://www.youtube.com/watch?v=egZLWgbShPE
+https://www.youtube.com/watch?v=l1JQhPBwrsY
 
+https://www.youtube.com/watch?v=egZLWgbShPE
+
+<h2>Graph Algorithms Problem Solving - from Starter to Expert</h2>
+https://www.youtube.com/watch?v=mDCbr8moyWc
