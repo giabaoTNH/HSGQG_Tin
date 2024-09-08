@@ -30,3 +30,5 @@
 
 <h2>Thuật toán dijkstra trong 8p: [How Dijkstra's Algorithm Works]https://www.youtube.com/watch?v=EFg3u_E6eHU</h2>
 
+<h2>Shortest Path Algorithms Explained (Dijkstra's & Bellman-Ford): https://www.youtube.com/watch?v=j0OUwduDOS0</h2>
+
