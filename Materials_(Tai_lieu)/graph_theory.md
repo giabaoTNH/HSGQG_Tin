@@ -28,3 +28,5 @@
 **Nhược điểm:**
 - Video dài, dễ nản
 
+<h2>Thuật toán dijkstra trong 8p: [How Dijkstra's Algorithm Works]https://www.youtube.com/watch?v=EFg3u_E6eHU</h2>
+
