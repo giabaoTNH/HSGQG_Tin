@@ -32,3 +32,7 @@
 
 <h2>Shortest Path Algorithms Explained (Dijkstra's & Bellman-Ford): https://www.youtube.com/watch?v=j0OUwduDOS0</h2>
 
+<h2>Bộ 2 Video Về Đồ Thị Của Shayan</h2>
+- https://www.youtube.com/watch?v=l1JQhPBwrsY
+- https://www.youtube.com/watch?v=egZLWgbShPE
+
